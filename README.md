@@ -1,4 +1,6 @@
 # OttoDIYESPShield
+LB: forked to store small changes in openscaddesign.
+
 ESP32 hardware designs for OttoDIY
 
 NOTICE: Most of this has now been verified and works ...
